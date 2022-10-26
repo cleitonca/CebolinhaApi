@@ -1,5 +1,6 @@
-# CebolinhaApi
-API de Livros desenvolvida com ASP.NET API.
+# ASP.NET API
+
+API de Livros desenvolvida com ASP.NET API que carinhosamente chamei de Cebolinha.
 
 ![image](https://user-images.githubusercontent.com/6372185/194116362-143aa3f3-bb74-4e6b-969c-b83f56524a2b.png)
 
